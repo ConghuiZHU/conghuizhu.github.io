@@ -3,12 +3,12 @@
 Gem::Specification.new do |spec|
   spec.name          = "alembic-jekyll-theme"
   spec.version       = "4.1.0"
-  spec.authors       = ["David Darnes"]
-  spec.email         = ["me@daviddarnes.com"]
+  spec.authors       = ["Conghui Zhu"]
+  spec.email         = ["conghui_zhu@outlook.com"]
 
-  spec.summary       = %q{A Jekyll boilerplate theme designed to be a starting point for any Jekyll website.}
-  spec.description   = "A Jekyll boilerplate theme designed to be a starting point for any Jekyll website. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately."
-  spec.homepage      = "https://alembic.darn.es"
+  #spec.summary       = %q{A Jekyll boilerplate theme designed to be a starting point for any Jekyll website.}
+  spec.description   = "Hi, I am a graduate student looking for a PhD position. My research interest lies primarily in Psycholinguistics. I have worked on pronoun resolution, information structure, and coherence relation computation and implicit causality. Currently I am particularly interested in focus and attention."
+  spec.homepage      = "https://conghuizhu.github.io"
   spec.license       = "MIT"
 
   spec.metadata["plugin_type"] = "theme"
