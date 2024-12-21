@@ -132,7 +132,7 @@ navigation_header:
 #- title: Fork Alembic
 #  url: https://github.com/daviddarnes/alembic
 
-#navigation_footer:
+navigation_footer:
 - title: Created by Conghui ZHU
   url: https://conghuizhu.github.io
 
