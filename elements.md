@@ -4,7 +4,7 @@ feature_text: |
   CV
 feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: "CV"
-aside: true
+aside: false
 ---
 
 
