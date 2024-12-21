@@ -126,7 +126,7 @@ navigation_header:
 - title: Publication
   url: /Publication/
 - title: Presentations
-  url: /categories/
+  url: categories.md
 #- title: Search
 #  url: /search/
 #- title: Fork Alembic
