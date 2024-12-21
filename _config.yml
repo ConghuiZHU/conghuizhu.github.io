@@ -122,7 +122,7 @@ navigation_header:
 - title: Home
   url: /
 - title: CV
-  url: /elements?/
+  url: /elements/
 - title: Publication
   url: /blog/
 - title: Presentations
@@ -133,8 +133,8 @@ navigation_header:
 #  url: https://github.com/daviddarnes/alembic
 
 #navigation_footer:
-#- title: Created by Conghui ZHU
-#  url: https://darn.es
+- title: Created by Conghui ZHU
+  url: https://conghuizhu.github.io
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/ConghuiZHU
