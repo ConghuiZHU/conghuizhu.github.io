@@ -93,7 +93,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: Conghui Zhu # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Hi, I am a graduate student looking for a PhD position. My research interest lies primarily in Psycholinguistics. I have worked on pronoun resolution, information structure, and coherence relation computation and implicit causality. Currently I am particularly interested in focus and attention." # Site description and default description, also used in jekyll-seo-tag
+description: "Hi, I am a graduate student looking for a PhD position. My research interest lies primarily in Psycholinguistics. I have worked on pronoun resolution, information structure, and coherence relation computation and implicit causality. Currently I am particularly interested in focus and attention, but I remain open to a wide range of research topics including long-distance dependancy, prediction and unification, and coherance relations in the domain of language and beyond." # Site description and default description, also used in jekyll-seo-tag
 url: "conghuizhu.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/ConghuiZHU/conghuizhu.github.io"
@@ -125,8 +125,8 @@ navigation_header:
   url: /elements/
 - title: Publication
   url: /Publication/
-- title: Presentations
-  url: /categories/
+- title: presentation
+  url: /presentation/
 #- title: Search
 #  url: /search/
 #- title: Fork Alembic
