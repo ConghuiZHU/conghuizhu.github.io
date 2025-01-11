@@ -1,7 +1,8 @@
 ---
 title: Presentations
-layout: Presentations
-excerpt: "Presentations"
+feature_text: |
+  Presentations
+feature_image: "https://picsum.photos/2560/600?image=873"
 aside: false
 ---
 
